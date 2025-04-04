@@ -34,6 +34,8 @@ class Timer:
                 self.deactivate()
             # print(elapsed_time)
 
+
+# testing 
 if __name__ == "__main__":
     init_window(1920, 1080, 'Timer')
     test_timer = Timer(5, False, False)
